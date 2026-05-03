@@ -1,5 +1,5 @@
 <?php
-$host = "localhost";
+$host = "srv1823.hstgr.io";
 $user = "u294201679_Divyanshu";
 $pass = "Divyanshu@123#12";
 $db   = "u294201679_TeamTask";
